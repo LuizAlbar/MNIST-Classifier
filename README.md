@@ -14,12 +14,14 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 ## 🚀 How to run
 
 1️⃣ **Install dependencies**
-
+```bash
 pip install -r requirements
+```
 
 2️⃣ **Run the digit recognition app**
-
+```bash
 python app.py
+```
 
 This will:
 
@@ -27,13 +29,13 @@ This will:
 * Print the prediction to the console
 
 ## 📝 Model details
-
+```
 * 2 convolutional layers with max pooling
 * Dropout for regularization
 * 2 fully connected layers
 * Loss function: `CrossEntropyLoss`
 * Optimizer: `Adam`
-
+```
 
 
 
