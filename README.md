@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 
 ## 📂 Project structure
 
-
+.
 ├── cnn.py # Defines the CNN architecture
 ├── dataset.py # Loads and prepares the MNIST dataset
 ├── learning.py # Trains and tests the model
