@@ -1,8 +1,8 @@
-# MNIST CNN Classifier
+#MNIST CNN Classifier
 
 This project implements a Convolutional Neural Network (CNN) using PyTorch to classify handwritten digits from the MNIST dataset.
 
-## 📂 Project structure
+##📂 Project structure
 
 
 ├── cnn.py # Defines the CNN architecture
@@ -11,14 +11,14 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 ├── classifier.py # Makes predictions on individual samples and displays the image
 
 
-## 🚀 How to run
+##🚀 How to run
 
 1️⃣ **Install dependencies**
-```bash
+
 pip install -r requirements
 
-2️⃣ **Run the digit recognition app**
-```bash
+2️⃣**Run the digit recognition app**
+
 python app.py
 
 This will:
