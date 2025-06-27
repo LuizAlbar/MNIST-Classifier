@@ -37,6 +37,7 @@ This will:
 * Optimizer: `Adam`
 ```
 
+![Example prediction](https://github.com/LuizAlbar/MNIST-Classifier/blob/assets/example.png)
 
 
 
